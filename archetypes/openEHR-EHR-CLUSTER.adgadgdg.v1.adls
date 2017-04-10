@@ -1,0 +1,44 @@
+archetype (adl_version=2.0.4; rm_release=1.0.2)
+    openEHR-EHR-CLUSTER.adgadgdg.v1.0.0
+
+language
+    original_language = <[ISO_639-1::en]>
+    translations = <
+        ["nb"] = <
+            accreditation = <"">
+            language = <[ISO_639-1::nb]>
+        >
+    >
+    
+description
+    copyright = <"">
+    details = <
+        ["en"] = <
+            language = <[ISO_639-1::en]>
+            purpose = <"">
+        >
+        ["nb"] = <
+            language = <[ISO_639-1::nb]>
+        >
+    >
+    lifecycle_state = <"unmanaged">
+
+definition
+    CLUSTER[id1]     -- adgadgdg
+
+terminology
+    term_definitions = <
+        ["en"] = <
+            ["id1"] = <
+                text = <"adgadgdg">
+                description = <"adgadgdg">
+            >
+        >
+        ["nb"] = <
+            ["id1"] = <
+                text = <"*adgadgdg (en)">
+                description = <"*adgadgdg (en)">
+            >
+        >
+    >
+
