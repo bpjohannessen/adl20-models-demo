@@ -11,14 +11,18 @@ language
     >
     
 description
-    copyright = <"">
+    copyright = <"bp yo">
     details = <
         ["en"] = <
             language = <[ISO_639-1::en]>
             purpose = <"">
         >
         ["nb"] = <
+            keywords = <"123">
             language = <[ISO_639-1::nb]>
+            misuse = <"2">
+            purpose = <"Test av dette">
+            use = <"1">
         >
     >
     lifecycle_state = <"unmanaged">
